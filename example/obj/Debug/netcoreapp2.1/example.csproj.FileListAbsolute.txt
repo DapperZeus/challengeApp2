@@ -1,0 +1,11 @@
+/Users/matthewp25/apps/example/bin/Debug/netcoreapp2.1/example.deps.json
+/Users/matthewp25/apps/example/bin/Debug/netcoreapp2.1/example.runtimeconfig.json
+/Users/matthewp25/apps/example/bin/Debug/netcoreapp2.1/example.runtimeconfig.dev.json
+/Users/matthewp25/apps/example/bin/Debug/netcoreapp2.1/example.dll
+/Users/matthewp25/apps/example/bin/Debug/netcoreapp2.1/example.pdb
+/Users/matthewp25/apps/example/obj/Debug/netcoreapp2.1/example.csprojAssemblyReference.cache
+/Users/matthewp25/apps/example/obj/Debug/netcoreapp2.1/example.csproj.CoreCompileInputs.cache
+/Users/matthewp25/apps/example/obj/Debug/netcoreapp2.1/example.AssemblyInfoInputs.cache
+/Users/matthewp25/apps/example/obj/Debug/netcoreapp2.1/example.AssemblyInfo.cs
+/Users/matthewp25/apps/example/obj/Debug/netcoreapp2.1/example.dll
+/Users/matthewp25/apps/example/obj/Debug/netcoreapp2.1/example.pdb
